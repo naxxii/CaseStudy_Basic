@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T17:53:05 IST" name="Default suite" finished-at="2023-10-11T17:53:41 IST" duration-ms="36080">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T17:53:05 IST" name="Default test" finished-at="2023-10-11T17:53:41 IST" duration-ms="36080">
+      <class name="Com.AutomationPanda.ContactsPage">
+        <test-method is-config="true" signature="BaseCls()[pri:0, instance:Com.AutomationPanda.ContactsPage@101952da]" started-at="2023-10-11T17:52:34 IST" name="BaseCls" finished-at="2023-10-11T17:53:05 IST" duration-ms="30915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseCls -->
+        <test-method signature="VerifyingHomePageTitle()[pri:1, instance:Com.AutomationPanda.ContactsPage@101952da]" started-at="2023-10-11T17:53:05 IST" name="VerifyingHomePageTitle" finished-at="2023-10-11T17:53:23 IST" duration-ms="17656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyingHomePageTitle -->
+        <test-method signature="VerifyingContactsPage()[pri:2, instance:Com.AutomationPanda.ContactsPage@101952da]" started-at="2023-10-11T17:53:23 IST" name="VerifyingContactsPage" finished-at="2023-10-11T17:53:41 IST" duration-ms="18354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyingContactsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.AutomationPanda.ContactsPage@101952da]" started-at="2023-10-11T17:53:41 IST" name="tearDown" finished-at="2023-10-11T17:53:42 IST" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.AutomationPanda.ContactsPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
